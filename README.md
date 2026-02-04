@@ -1,4 +1,4 @@
-# 🎯 XSS Hunting (NEON_VOID)
+# 🎯 XSS Hunting 
 **XSS Hunting** XSS Hunting is an automated Cross-Site Scripting (XSS) reconnaissance and testing tool built in Python for learning and security research.  
 It follows a staged payload execution model to improve scan speed, reduce noise, and minimize false positives.
 
