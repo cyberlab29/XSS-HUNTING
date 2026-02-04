@@ -42,8 +42,8 @@ Ensure you have **Python 3.x** and **Go** installed on your system.
 
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/xss-hunting-tool.git
-    cd xss-hunting-tool
+    git clone https://github.com/cyberlab29/XSS-HUNTING.git
+    cd XSS-HUNTING
     ```
 
 2.  **Install Python Dependencies**:
@@ -94,5 +94,4 @@ This tool is designed for **educational purposes** and **authorized security tes
 
 MIT License 
 
-**Created by RASHI** 
- *Powering the next generation of automated web security.*
+**Created by RASHI** | *Powering the next generation of automated web security.*
