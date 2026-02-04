@@ -1,0 +1,20 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Scan Outputs and Results
+results/
+output/
+targets.json
+findings.json
+*.txt
+!requirements.txt
+!payloads/*.txt
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
